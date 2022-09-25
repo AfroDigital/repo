@@ -1,5 +1,5 @@
 {
-"User" : {
-    "title" : { "firstName" : "Adedayo" }
- }
+  "User": {
+    "title": { "string": {} }
+  }
 }
